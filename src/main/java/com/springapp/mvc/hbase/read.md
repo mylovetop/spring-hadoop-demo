@@ -64,3 +64,9 @@ MAVEN_OPTS -Xmx512m
   , DATA_BLOCK_ENCODING => 'NONE', TTL => 'FOREVER', COMPRESSION => 'NONE', MIN_VERSIONS => '0', BLOCKCACHE =
   > 'true', BLOCKSIZE => '65536', REPLICATION_SCOPE => '0'}
   1 row(s) in 0.1180 seconds
+
+5.zookeeper 启动
+  启动ZK服务:       sh bin/zkServer.sh start
+  查看ZK服务状态: sh bin/zkServer.sh status
+  停止ZK服务:       sh bin/zkServer.sh stop
+  重启ZK服务:       sh bin/zkServer.sh restart

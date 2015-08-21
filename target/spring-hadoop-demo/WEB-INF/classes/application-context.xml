@@ -3,30 +3,45 @@
        xmlns:beans="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:hdp="http://www.springframework.org/schema/hadoop"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
 	   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
 	   http://www.springframework.org/schema/hadoop http://www.springframework.org/schema/hadoop/spring-hadoop.xsd">
 
-       <context:property-placeholder location="hadoop.properties"></context:property-placeholder>
+       <context:property-placeholder location="classpath*:hadoop.properties"></context:property-placeholder>
 
-       <!--<configuration>-->
+
+
+    <!--<configuration>-->
               <!--fs.defaultFS=${hd.fs}-->
               <!--yarn.resourcemanager.address=${hd.rm}-->
               <!--mapreduce.framework.name=yarn-->
               <!--mapreduce.jobhistory.address=${hd.jh}-->
        <!--</configuration>-->
 
-       <configuration>
+       <configuration id="hadoopConfiguration">
               fs.defaultFS=${hd.fs}
-              mapreduce.framework.name=yarn
+              <!--mapreduce.framework.name=yarn-->
        </configuration>
 
 
-       <job id="wordcountJob"
-            input-path="/user/gutenberg/input"
-            output-path="/user/gutenberg/output"
-            mapper="com.springapp.mvc.TokenizerMapper"
-            reducer="com.springapp.mvc.IntSumReducer"/>
-       <job-runner id="runner" job-ref="wordcountJob" run-at-startup="true"/>
+       <!--<job id="wordcountJob"-->
+            <!--input-path="${wordcount.input.path}"-->
+            <!--output-path="${wordcount.output.path}"-->
+            <!--mapper="com.springapp.mvc.mapReduce.TokenizerMapper"-->
+            <!--reducer="com.springapp.mvc.mapReduce.IntSumReducer"/>-->
+       <!--<job-runner id="runner" job-ref="wordcountJob" run-at-startup="true"/>-->
+
+
+       <!--hbase-->
+       <!-- 配置zookeeper地址和端口 -->
+       <hbase-configuration id="hbaseConfiguration"
+                                configuration-ref="hadoopConfiguration"
+                                zk-quorum="${hbase.zk.host}"
+                                zk-port="${hbase.zk.port}"/>
+
+       <beans:bean id="hbaseTemplate" class="org.springframework.data.hadoop.hbase.HbaseTemplate">
+              <beans:property name="configuration" ref="hbaseConfiguration"></beans:property>
+       </beans:bean>
 
 </beans:beans>
