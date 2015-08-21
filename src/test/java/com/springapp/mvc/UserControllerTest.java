@@ -35,7 +35,7 @@ public class UserControllerTest extends TestAbstract {
 	 */
 	@Test
 	public void testSetReaded1() throws Exception {
-		mockMvc.perform((post("/noticeManage.html").param("memberId", "").param("noticeId", "")))  
+		mockMvc.perform((post("/1.html").param("memberId", "").param("noticeId", "")))
         	   .andExpect(status().isOk()).andDo(print());
 	}
 	/**
@@ -56,7 +56,7 @@ public class UserControllerTest extends TestAbstract {
 	 */
 	@Test
 	public void testSetReaded2() throws Exception {
-		MvcResult result=mockMvc.perform((get("/noticeManage.html").param("memberId", "1").param("noticeId", "1")))
+		MvcResult result=mockMvc.perform((get("/2.html").param("memberId", "1").param("noticeId", "1")))
         	   .andExpect(status().isOk()).andDo(print())
         	   //.andExpect(view().name("user/view"))  
         	   //.andExpect(model().attributeExists("user"))  

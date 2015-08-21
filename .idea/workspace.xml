@@ -23,14 +23,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41253263">
-              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserControllerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5411765">
+              <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,81 +68,13 @@
       <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.555555">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state vertical-scroll-proportion="-7.148148">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding>
-                <element signature="e#962#1267#0" expanded="true" />
+                <element signature="imports" expanded="true" />
                 <element signature="e#1266#1267#0" expanded="true" />
                 <element signature="e#1470#1902#0" expanded="true" />
                 <element signature="e#1901#1902#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAbstract.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/TestAbstract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.703704">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1449#1500#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileCopy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapReduce/fileCopy/FileCopy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserControllerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.962963">
-              <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hadoop.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application-context.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.444445">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding>
-                <element signature="e#1872#1890#0" expanded="true" />
-                <element signature="e#1931#1949#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.296297">
-              <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,12 +90,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HBaseAdmin.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94.12/hbase-0.94.12.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
+      <file leaf-file-name="Read.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Read.md">
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.703704">
-              <caret line="91" column="45" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+            <state vertical-scroll-proportion="-17.965517">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/read.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-28.333334">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -166,23 +153,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/WordCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapReduce/WordCount.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/hbase.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/HBaseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/read.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserApp.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/TestCommon.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/NoticeControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/MemberControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hadoop.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/TestAbstract.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapReduce/controller/WordController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/read.md" />
+        <option value="$PROJECT_DIR$/src/main/resources/hadoop.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application-context.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserRepository.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java" />
       </list>
     </option>
   </component>
@@ -211,6 +198,20 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="spring-hadoop-demo" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -270,6 +271,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spring-hadoop-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hadoop-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-hadoop-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1032,16 +1047,16 @@
       <workItem from="1439797838671" duration="99000" />
       <workItem from="1439798136911" duration="81000" />
       <workItem from="1439798555823" duration="3015000" />
-      <workItem from="1439859368177" duration="20530000" />
+      <workItem from="1439859368177" duration="25968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34851000" />
+    <option name="totallyTimeSpent" value="40289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="970" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1053,7 +1068,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5318907" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5318907" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1061,7 +1076,7 @@
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32915717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1098,36 +1113,26 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java</url>
-          <line>49</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserRepository.java</url>
+          <line>39</line>
           <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java</url>
-          <line>51</line>
+          <line>52</line>
           <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="11" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
         <watch expression="config" />
         <watch expression="hbaseTemplate" />
+        <watch expression="e" language="JAVA" custom="" />
+        <watch expression="users" />
       </configuration>
       <configuration name="Application">
         <watch expression="FileCopy.class.getResource(&quot;/&quot;)" />
@@ -1144,17 +1149,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Read.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapReduce/fileCopy/FileCopy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1299,17 +1293,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Read.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1363,14 +1346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
@@ -1395,56 +1370,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/HBaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1333#1334#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1436#1437#0" expanded="true" />
-            <element signature="e#1487#1488#0" expanded="true" />
-            <element signature="e#1531#1532#0" expanded="true" />
-            <element signature="e#1566#1567#0" expanded="true" />
-            <element signature="e#1598#1599#0" expanded="true" />
-            <element signature="e#1647#1648#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
-            <element signature="e#1718#1719#0" expanded="true" />
-            <element signature="e#1744#1745#0" expanded="true" />
-            <element signature="e#1781#1782#0" expanded="true" />
-            <element signature="e#1811#1812#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/read.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.703704">
-          <caret line="44" column="43" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/mapReduce/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.222221">
-          <caret line="45" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1463,24 +1394,6 @@
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/MemberControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="155" column="24" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/NoticeControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1538,14 +1451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.962963">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hbase/hbase/0.94.12/hbase-0.94.12.jar!/org/apache/hadoop/hbase/client/HBaseAdmin.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.703704">
@@ -1557,15 +1462,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/hadoop.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.444445">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        <state vertical-scroll-proportion="-9.851851">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
           <folding>
             <element signature="e#1872#1890#0" expanded="true" />
             <element signature="e#1931#1949#0" expanded="true" />
@@ -1573,13 +1478,753 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java">
+    <entry file="uml://MAVEN/com.springapp:spring-hadoop-demo:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.springapp:spring-hadoop-demo:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.springapp:spring-hadoop-demo:1.0-SNAPSHOT</node>
+            <node x="202.0" y="0.0">org.springframework:spring-core:jar:4.1.1.RELEASE</node>
+            <node x="341.0" y="0.0">org.springframework:spring-core:jar:4.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="202.0" y="40.0">org.springframework:spring-web:jar:4.1.1.RELEASE</node>
+            <node x="339.0" y="40.0">org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-aop:jar:4.1.1.RELEASE</node>
+            <node x="474.0" y="40.0">org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-aop:jar:4.1.1.RELEASE/aopalliance:aopalliance:jar:1.0</node>
+            <node x="339.0" y="80.0">org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-beans:jar:4.1.1.RELEASE</node>
+            <node x="339.0" y="120.0">org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-context:jar:4.1.1.RELEASE</node>
+            <node x="202.0" y="160.0">org.springframework:spring-webmvc:jar:4.1.1.RELEASE</node>
+            <node x="365.0" y="160.0">org.springframework:spring-webmvc:jar:4.1.1.RELEASE/org.springframework:spring-expression:jar:4.1.1.RELEASE</node>
+            <node x="202.0" y="200.0">org.springframework:spring-test:jar:4.1.1.RELEASE</node>
+            <node x="202.0" y="240.0">junit:junit:jar:4.11</node>
+            <node x="295.0" y="240.0">junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="202.0" y="280.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE</node>
+            <node x="396.0" y="280.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-context-support:jar:4.1.6.RELEASE</node>
+            <node x="396.0" y="320.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-tx:jar:4.1.6.RELEASE</node>
+            <node x="396.0" y="360.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE</node>
+            <node x="635.0" y="360.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0</node>
+            <node x="844.0" y="360.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-api:jar:2.6.0</node>
+            <node x="844.0" y="400.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="1039.0" y="400.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="844.0" y="440.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/javax.servlet:servlet-api:jar:2.5</node>
+            <node x="844.0" y="480.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey:jersey-client:jar:1.9</node>
+            <node x="844.0" y="520.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.hadoop:hadoop-annotations:jar:2.6.0</node>
+            <node x="844.0" y="560.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject.extensions:guice-servlet:jar:3.0</node>
+            <node x="844.0" y="600.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0</node>
+            <node x="942.0" y="600.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0/javax.inject:javax.inject:jar:1</node>
+            <node x="844.0" y="640.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey.contribs:jersey-guice:jar:1.9</node>
+            <node x="635.0" y="680.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0</node>
+            <node x="809.0" y="680.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.commons:commons-math3:jar:3.1.1</node>
+            <node x="809.0" y="720.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/xmlenc:xmlenc:jar:0.52</node>
+            <node x="809.0" y="760.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/commons-net:commons-net:jar:3.1</node>
+            <node x="809.0" y="800.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/javax.servlet.jsp:jsp-api:jar:2.1</node>
+            <node x="809.0" y="840.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0</node>
+            <node x="909.0" y="840.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0/com.jamesmurty.utils:java-xmlbuilder:jar:0.4</node>
+            <node x="809.0" y="880.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/com.google.code.gson:gson:jar:2.2.4</node>
+            <node x="809.0" y="920.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0</node>
+            <node x="956.0" y="920.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15</node>
+            <node x="1187.0" y="920.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.server:apacheds-i18n:jar:2.0.0-M15</node>
+            <node x="1187.0" y="960.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-asn1-api:jar:1.0.0-M20</node>
+            <node x="1187.0" y="1000.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-util:jar:1.0.0-M20</node>
+            <node x="956.0" y="1040.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.curator:curator-framework:jar:2.6.0</node>
+            <node x="809.0" y="1080.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/com.jcraft:jsch:jar:0.1.42</node>
+            <node x="809.0" y="1120.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-client:jar:2.6.0</node>
+            <node x="809.0" y="1160.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-recipes:jar:2.6.0</node>
+            <node x="809.0" y="1200.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.htrace:htrace-core:jar:3.0.4</node>
+            <node x="635.0" y="1240.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-distcp:jar:2.6.0</node>
+            <node x="635.0" y="1280.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0</node>
+            <node x="782.0" y="1280.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/commons-daemon:commons-daemon:jar:1.0.13</node>
+            <node x="782.0" y="1320.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/io.netty:netty:jar:3.6.2.Final</node>
+            <node x="782.0" y="1360.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/xerces:xercesImpl:jar:2.9.1</node>
+            <node x="915.0" y="1360.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/xerces:xercesImpl:jar:2.9.1/xml-apis:xml-apis:jar:1.3.04</node>
+            <node x="635.0" y="1400.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.6.0</node>
+            <node x="635.0" y="1440.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-streaming:jar:2.6.0</node>
+            <node x="635.0" y="1480.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0</node>
+            <node x="929.0" y="1480.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0</node>
+            <node x="1223.0" y="1480.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-client:jar:2.6.0</node>
+            <node x="1223.0" y="1520.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-common:jar:2.6.0</node>
+            <node x="929.0" y="1560.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0</node>
+            <node x="1212.0" y="1560.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-nodemanager:jar:2.6.0</node>
+            <node x="1212.0" y="1600.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.fusesource.leveldbjni:leveldbjni-all:jar:1.8</node>
+            <node x="396.0" y="1640.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE</node>
+            <node x="618.0" y="1640.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE</node>
+            <node x="800.0" y="1640.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0</node>
+            <node x="1017.0" y="1640.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0/javax.batch:javax.batch-api:jar:1.0</node>
+            <node x="800.0" y="1680.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7</node>
+            <node x="915.0" y="1680.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xmlpull:xmlpull:jar:1.1.3.1</node>
+            <node x="915.0" y="1720.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xpp3:xpp3_min:jar:1.1.4c</node>
+            <node x="800.0" y="1760.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE</node>
+            <node x="1041.0" y="1760.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE/org.springframework.retry:spring-retry:jar:1.1.0.RELEASE</node>
+            <node x="396.0" y="1800.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-batch:jar:2.2.0.RELEASE</node>
+            <node x="396.0" y="1840.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hive:jar:2.2.0.RELEASE</node>
+            <node x="396.0" y="1880.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-jdbc:jar:4.1.6.RELEASE</node>
+            <node x="396.0" y="1920.0">org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-core:jar:2.2.0.RELEASE</node>
+            <node x="202.0" y="1960.0">org.apache.hbase:hbase:jar:0.94.12</node>
+            <node x="303.0" y="1960.0">org.apache.hbase:hbase:jar:0.94.12/com.yammer.metrics:metrics-core:jar:2.1.2</node>
+            <node x="303.0" y="2000.0">org.apache.hbase:hbase:jar:0.94.12/com.google.guava:guava:jar:11.0.2</node>
+            <node x="404.0" y="2000.0">org.apache.hbase:hbase:jar:0.94.12/com.google.guava:guava:jar:11.0.2/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="303.0" y="2040.0">org.apache.hbase:hbase:jar:0.94.12/commons-cli:commons-cli:jar:1.2</node>
+            <node x="303.0" y="2080.0">org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6</node>
+            <node x="522.0" y="2080.0">org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="522.0" y="2120.0">org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8</node>
+            <node x="707.0" y="2120.0">org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="522.0" y="2160.0">org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0</node>
+            <node x="303.0" y="2200.0">org.apache.hbase:hbase:jar:0.94.12/com.github.stephenc.high-scale-lib:high-scale-lib:jar:1.1.1</node>
+            <node x="303.0" y="2240.0">org.apache.hbase:hbase:jar:0.94.12/commons-codec:commons-codec:jar:1.4</node>
+            <node x="303.0" y="2280.0">org.apache.hbase:hbase:jar:0.94.12/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="303.0" y="2320.0">org.apache.hbase:hbase:jar:0.94.12/commons-io:commons-io:jar:2.1</node>
+            <node x="303.0" y="2360.0">org.apache.hbase:hbase:jar:0.94.12/commons-lang:commons-lang:jar:2.5</node>
+            <node x="303.0" y="2400.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro:jar:1.5.3</node>
+            <node x="394.0" y="2400.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro:jar:1.5.3/org.xerial.snappy:snappy-java:jar:1.0.3.2</node>
+            <node x="303.0" y="2440.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3</node>
+            <node x="421.0" y="2440.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3/org.jboss.netty:netty:jar:3.2.4.Final</node>
+            <node x="421.0" y="2480.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3/org.apache.velocity:velocity:jar:1.7</node>
+            <node x="303.0" y="2520.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.zookeeper:zookeeper:jar:3.4.5</node>
+            <node x="303.0" y="2560.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0</node>
+            <node x="415.0" y="2560.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0/org.apache.httpcomponents:httpclient:jar:4.1.2</node>
+            <node x="415.0" y="2600.0">org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0/org.apache.httpcomponents:httpcore:jar:4.1.3</node>
+            <node x="303.0" y="2640.0">org.apache.hbase:hbase:jar:0.94.12/org.jruby:jruby-complete:jar:1.6.5</node>
+            <node x="303.0" y="2680.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jetty:jar:6.1.26</node>
+            <node x="303.0" y="2720.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jetty-util:jar:6.1.26</node>
+            <node x="303.0" y="2760.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-2.1:jar:6.1.14</node>
+            <node x="414.0" y="2760.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-2.1:jar:6.1.14/org.eclipse.jdt:core:jar:3.1.1</node>
+            <node x="303.0" y="2800.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-api-2.1:jar:6.1.14</node>
+            <node x="303.0" y="2840.0">org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:servlet-api-2.5:jar:6.1.14</node>
+            <node x="303.0" y="2880.0">org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-core-asl:jar:1.8.8</node>
+            <node x="303.0" y="2920.0">org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.8</node>
+            <node x="303.0" y="2960.0">org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-jaxrs:jar:1.8.8</node>
+            <node x="303.0" y="3000.0">org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-xc:jar:1.8.8</node>
+            <node x="303.0" y="3040.0">org.apache.hbase:hbase:jar:0.94.12/org.slf4j:slf4j-api:jar:1.4.3</node>
+            <node x="303.0" y="3080.0">org.apache.hbase:hbase:jar:0.94.12/org.slf4j:slf4j-log4j12:jar:1.4.3</node>
+            <node x="303.0" y="3120.0">org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-compiler:jar:5.5.23</node>
+            <node x="303.0" y="3160.0">org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-runtime:jar:5.5.23</node>
+            <node x="462.0" y="3160.0">org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-runtime:jar:5.5.23/commons-el:commons-el:jar:1.0</node>
+            <node x="303.0" y="3200.0">org.apache.hbase:hbase:jar:0.94.12/org.jamon:jamon-runtime:jar:2.3.1</node>
+            <node x="303.0" y="3240.0">org.apache.hbase:hbase:jar:0.94.12/com.google.protobuf:protobuf-java:jar:2.4.0a</node>
+            <node x="303.0" y="3280.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-core:jar:1.8</node>
+            <node x="303.0" y="3320.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8</node>
+            <node x="439.0" y="3320.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8/org.codehaus.jettison:jettison:jar:1.1</node>
+            <node x="439.0" y="3360.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8/com.sun.xml.bind:jaxb-impl:jar:2.2.3-1</node>
+            <node x="303.0" y="3400.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-server:jar:1.8</node>
+            <node x="450.0" y="3400.0">org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-server:jar:1.8/asm:asm:jar:3.1</node>
+            <node x="303.0" y="3440.0">org.apache.hbase:hbase:jar:0.94.12/javax.xml.bind:jaxb-api:jar:2.1</node>
+            <node x="421.0" y="3440.0">org.apache.hbase:hbase:jar:0.94.12/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1</node>
+            <node x="303.0" y="3480.0">org.apache.hbase:hbase:jar:0.94.12/stax:stax-api:jar:1.0.1</node>
+            <node x="202.0" y="3520.0">log4j:log4j:jar:1.2.17</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xmlpull:xmlpull:jar:1.1.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-common:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="1061.0" y="1535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.1.RELEASE" target="org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-beans:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="255.5" y="95.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.slf4j:slf4j-log4j12:jar:1.4.3">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="694.0" y="1775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.hadoop:hadoop-annotations:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.1.RELEASE" target="org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-aop:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey:jersey-client:jar:1.9">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-api-2.1:jar:6.1.14">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="1655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.commons:commons-math3:jar:3.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0/org.apache.httpcomponents:httpclient:jar:4.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/io.netty:netty:jar:3.6.2.Final">
+              <point x="0.0" y="0.0" />
+              <point x="693.5" y="1335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro:jar:1.5.3">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-jaxrs:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.curator:curator-framework:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="867.5" y="1055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-2.1:jar:6.1.14" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-2.1:jar:6.1.14/org.eclipse.jdt:core:jar:3.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/javax.servlet:servlet-api:jar:2.5">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/commons-net:commons-net:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8/org.codehaus.jettison:jettison:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-recipes:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="1175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.curator:curator-client:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="1135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-runtime:jar:5.5.23" target="org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-runtime:jar:5.5.23/commons-el:commons-el:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/xmlenc:xmlenc:jar:0.52">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jsp-2.1:jar:6.1.14">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0/com.jamesmurty.utils:java-xmlbuilder:jar:0.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-webmvc:jar:4.1.1.RELEASE" target="org.springframework:spring-webmvc:jar:4.1.1.RELEASE/org.springframework:spring-expression:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-jdbc:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="1895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/xerces:xercesImpl:jar:2.9.1" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/xerces:xercesImpl:jar:2.9.1/xml-apis:xml-apis:jar:1.3.04">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7">
+              <point x="0.0" y="0.0" />
+              <point x="694.0" y="1695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-codec:commons-codec:jar:1.4">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.github.stephenc.high-scale-lib:high-scale-lib:jar:1.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-lang:commons-lang:jar:2.5">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-aop:jar:4.1.1.RELEASE" target="org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-aop:jar:4.1.1.RELEASE/aopalliance:aopalliance:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-tx:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.springframework:spring-core:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="1495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.jruby:jruby-complete:jar:1.6.5">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-core-asl:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8" target="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-json:jar:1.8/com.sun.xml.bind:jaxb-impl:jar:2.2.3-1">
+              <point x="0.0" y="0.0" />
+              <point x="356.0" y="3375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/javax.xml.bind:jaxb-api:jar:2.1" target="org.apache.hbase:hbase:jar:0.94.12/javax.xml.bind:jaxb-api:jar:2.1/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro:jar:1.5.3" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro:jar:1.5.3/org.xerial.snappy:snappy-java:jar:1.0.3.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.ibm.jbatch:com.ibm.jbatch-tck-spi:jar:1.0/javax.batch:javax.batch-api:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-cli:commons-cli:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-batch:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="1815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.google.protobuf:protobuf-java:jar:2.4.0a">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="767.0" y="1575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.slf4j:slf4j-api:jar:1.4.3">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-server:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/javax.xml.bind:jaxb-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-core:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-web:jar:4.1.1.RELEASE" target="org.springframework:spring-web:jar:4.1.1.RELEASE/org.springframework:spring-context:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="255.5" y="135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework:spring-core:jar:4.1.1.RELEASE" target="org.springframework:spring-core:jar:4.1.1.RELEASE/commons-logging:commons-logging:jar:1.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.htrace:htrace-core:jar:3.0.4">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="1215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject.extensions:guice-servlet:jar:3.0">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-server:jar:1.8" target="org.apache.hbase:hbase:jar:0.94.12/com.sun.jersey:jersey-server:jar:1.8/asm:asm:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.7/xpp3:xpp3_min:jar:1.1.4c">
+              <point x="0.0" y="0.0" />
+              <point x="842.5" y="1735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.apache.hbase:hbase:jar:0.94.12">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="1975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/com.google.guava:guava:jar:11.0.2" target="org.apache.hbase:hbase:jar:0.94.12/com.google.guava:guava:jar:11.0.2/com.google.code.findbugs:jsr305:jar:1.3.9">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jetty-util:jar:6.1.26">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.google.guava:guava:jar:11.0.2">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/stax:stax-api:jar:1.0.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hive:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="1855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.apache.hadoop:hadoop-yarn-server-nodemanager:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="junit:junit:jar:4.11">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/com.google.code.gson:gson:jar:2.2.4">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="3535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.zookeeper:zookeeper:jar:3.4.5">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-runtime:jar:5.5.23">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-util:jar:1.0.0-M20">
+              <point x="0.0" y="0.0" />
+              <point x="1056.5" y="1015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:servlet-api-2.5:jar:6.1.14">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.6.0/org.fusesource.leveldbjni:leveldbjni-all:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="1055.5" y="1615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-httpclient:commons-httpclient:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3/org.jboss.netty:netty:jar:3.2.4.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/commons-daemon:commons-daemon:jar:1.0.13">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.springframework:spring-webmvc:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-pig:jar:2.2.0.RELEASE/org.springframework.batch:spring-batch-core:jar:3.0.4.RELEASE/org.springframework.batch:spring-batch-infrastructure:jar:3.0.4.RELEASE/org.springframework.retry:spring-retry:jar:1.1.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.springframework:spring-test:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.avro:avro-ipc:jar:1.5.3/org.apache.velocity:velocity:jar:1.7">
+              <point x="0.0" y="0.0" />
+              <point x="347.0" y="2495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/com.jcraft:jsch:jar:0.1.42">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="1095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.server:apacheds-i18n:jar:2.0.0-M15">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="1295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.mortbay.jetty:jetty:jar:6.1.26">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6" target="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="397.5" y="2135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-distcp:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="1255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6" target="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-collections:commons-collections:jar:3.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.springapp:spring-hadoop-demo:1.0-SNAPSHOT" target="org.springframework:spring-web:jar:4.1.1.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="86.0" y="55.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-streaming:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="1455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework:spring-context-support:jar:4.1.6.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/tomcat:jasper-compiler:jar:5.5.23">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.sun.jersey.contribs:jersey-guice:jar:1.9">
+              <point x="0.0" y="0.0" />
+              <point x="724.5" y="655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/com.yammer.metrics:metrics-core:jar:2.1.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/com.google.inject:guice:jar:3.0/javax.inject:javax.inject:jar:1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6" target="org.apache.hbase:hbase:jar:0.94.12/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0">
+              <point x="0.0" y="0.0" />
+              <point x="397.5" y="2175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/javax.servlet.jsp:jsp-api:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.6.0/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-client:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-core:jar:2.2.0.RELEASE">
+              <point x="0.0" y="0.0" />
+              <point x="284.0" y="1935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-yarn-common:jar:2.6.0/org.apache.hadoop:hadoop-yarn-api:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/net.java.dev.jets3t:jets3t:jar:0.9.0">
+              <point x="0.0" y="0.0" />
+              <point x="707.0" y="855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.codehaus.jackson:jackson-xc:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0" target="org.apache.hbase:hbase:jar:0.94.12/org.apache.thrift:libthrift:jar:0.8.0/org.apache.httpcomponents:httpcore:jar:4.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="344.0" y="2615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.6.0">
+              <point x="0.0" y="0.0" />
+              <point x="500.5" y="1415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-hdfs:jar:2.6.0/xerces:xercesImpl:jar:2.9.1">
+              <point x="0.0" y="0.0" />
+              <point x="693.5" y="1375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="junit:junit:jar:4.11" target="junit:junit:jar:4.11/org.hamcrest:hamcrest-core:jar:1.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/org.jamon:jamon-runtime:jar:2.3.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="3215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15" target="org.springframework.data:spring-data-hadoop:jar:2.2.0.RELEASE/org.springframework.data:spring-data-hadoop-hbase:jar:2.2.0.RELEASE/org.apache.hadoop:hadoop-common:jar:2.6.0/org.apache.hadoop:hadoop-auth:jar:2.6.0/org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15/org.apache.directory.api:api-asn1-api:jar:1.0.0-M20">
+              <point x="0.0" y="0.0" />
+              <point x="1056.5" y="975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hbase:hbase:jar:0.94.12" target="org.apache.hbase:hbase:jar:0.94.12/commons-io:commons-io:jar:2.1">
+              <point x="0.0" y="0.0" />
+              <point x="237.5" y="2335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.730532212885154" x="98.52760736196319" y="1559.5276073619632" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Read.md">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.296297">
-          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-17.965517">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1591,12 +2236,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/read.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.555555">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state vertical-scroll-proportion="-7.148148">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding>
-            <element signature="e#962#1267#0" expanded="true" />
+            <element signature="imports" expanded="true" />
             <element signature="e#1266#1267#0" expanded="true" />
             <element signature="e#1470#1902#0" expanded="true" />
             <element signature="e#1901#1902#0" expanded="true" />
@@ -1606,11 +2259,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41253263">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.333334">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/hbase/UserApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/springapp/mvc/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5411765">
+          <caret line="58" column="49" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
