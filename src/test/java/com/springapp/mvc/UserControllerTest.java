@@ -56,7 +56,7 @@ public class UserControllerTest extends TestAbstract {
 	 */
 	@Test
 	public void testSetReaded2() throws Exception {
-		MvcResult result=mockMvc.perform((get("/2.html").param("memberId", "1").param("noticeId", "1")))
+		MvcResult result=mockMvc.perform((get("/2.html").param("memberId", "21").param("noticeId", "1")))
         	   .andExpect(status().isOk()).andDo(print())
         	   //.andExpect(view().name("user/view"))  
         	   //.andExpect(model().attributeExists("user"))  

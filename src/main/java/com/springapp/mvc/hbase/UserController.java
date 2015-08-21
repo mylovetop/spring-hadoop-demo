@@ -17,38 +17,15 @@ import java.util.List;
 @Controller
 public class UserController {
 
-    private static final Log log = LogFactory.getLog(UserApp.class);
+    private static final Log log = LogFactory.getLog(UserController.class);
 
 
-
-    public static void main(String[] args) throws Exception {
-        AbstractApplicationContext context = new ClassPathXmlApplicationContext(
-                "/application-context.xml", UserApp.class);
-        log.info("HBase Application Running");
-
-
-        UserUtils userUtils = context.getBean(UserUtils.class);
-        userUtils.initialize();
-        userUtils.addUsers();
-
-        UserRepository userRepository = context.getBean(UserRepository.class);
-        List<User> users = userRepository.findAll();
-        System.out.println("Number of users = " + users.size());
-        System.out.println(users);
-        context.registerShutdownHook();
-
-    }
-
-    @Autowired
-    private UserUtils userUtils;
     @Autowired
     private UserRepository userRepository;
 
     @RequestMapping("/userInfo.html")
     public String userInfo(ModelMap modelMap){
         try {
-//            userUtils.initialize();
-//            userUtils.addUsers();
             List<User> users = userRepository.findAll();
             modelMap.put("message", users.size());
         } catch (Exception e){

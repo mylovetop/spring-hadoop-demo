@@ -70,3 +70,11 @@ MAVEN_OPTS -Xmx512m
   查看ZK服务状态: sh bin/zkServer.sh status
   停止ZK服务:       sh bin/zkServer.sh stop
   重启ZK服务:       sh bin/zkServer.sh restart
+
+  6. hbase中表users 数据
+  $ scan 'users'
+  ROW                                COLUMN+CELL
+   one                               column=info:email, timestamp=1440139873412, value=email
+   one                               column=info:password, timestamp=1440139890501, value=password
+   one                               column=info:user, timestamp=1440139828363, value=user
+  1 row(s) in 1.9290 seconds

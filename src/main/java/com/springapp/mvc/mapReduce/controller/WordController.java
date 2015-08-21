@@ -16,7 +16,7 @@ public class WordController {
 
     private static final Log log = LogFactory.getLog(WordController.class);
 
-    @Autowired
+
     public Job mapReduceJob;
 
 

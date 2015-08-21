@@ -9,6 +9,10 @@
 
     <properties>
         <spring.version>4.1.1.RELEASE</spring.version>
+        <spring.hadoop.version>2.2.0.RELEASE</spring.hadoop.version>
+        <hadoop.version>2.6.0</hadoop.version>
+        <hbase.version>0.98.5-hadoop2</hbase.version>
+        <spring.hadoop.version>2.2.0.RELEASE</spring.hadoop.version>
     </properties>
 
     <dependencies>
@@ -23,19 +27,6 @@
             <artifactId>spring-web</artifactId>
             <version>${spring.version}</version>
         </dependency>
-
-        <!--<dependency>-->
-            <!--<groupId>javax.servlet</groupId>-->
-            <!--<artifactId>servlet-api</artifactId>-->
-            <!--<version>2.5</version>-->
-        <!--</dependency>-->
-
-        <!--<dependency>-->
-            <!--<groupId>javax.servlet.jsp</groupId>-->
-            <!--<artifactId>jsp-api</artifactId>-->
-            <!--<version>2.1</version>-->
-            <!--<scope>provided</scope>-->
-        <!--</dependency>-->
 
         <dependency>
             <groupId>org.springframework</groupId>
@@ -61,17 +52,31 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-hadoop</artifactId>
-            <version>2.2.0.RELEASE</version>
+            <version>${spring.hadoop.version}</version>
         </dependency>
 
         <dependency>
+            <groupId>org.apache.hadoop</groupId>
+            <artifactId>hadoop-common</artifactId>
+            <version>${hadoop.version}</version>
+            <scope>compile</scope>
+        </dependency>
 
+        <dependency>
             <groupId>org.apache.hbase</groupId>
-
-            <artifactId>hbase</artifactId>
-
-            <version>0.94.12</version>
-
+            <artifactId>hbase-client</artifactId>
+            <version>${hbase.version}</version>
+            <scope>compile</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>log4j</groupId>
+                    <artifactId>log4j</artifactId>
+                </exclusion>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
 
         <dependency>
